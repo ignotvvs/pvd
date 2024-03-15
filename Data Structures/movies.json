@@ -1,0 +1,54 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "Movie",
+                "type": "string"
+            },
+            {
+                "name": "Year",
+                "type": "integer"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "1.4.0"
+    },
+    "data": [
+        {
+            "index": 0,
+            "Movie": "Everything Everywhere All at Once",
+            "Year": 2023
+        },
+        {
+            "index": 1,
+            "Movie": "The Whale",
+            "Year": 2023
+        },
+        {
+            "index": 2,
+            "Movie": "The Eyes of Tammy Faye",
+            "Year": 2022
+        },
+        {
+            "index": 3,
+            "Movie": "King Richard",
+            "Year": 2022
+        },
+        {
+            "index": 4,
+            "Movie": "Nomadland",
+            "Year": 2021
+        },
+        {
+            "index": 5,
+            "Movie": "The Father",
+            "Year": 2021
+        }
+    ]
+}
